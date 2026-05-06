@@ -75,6 +75,6 @@ Enter your choice:
 
 ## 👩‍💻 Author
 
-* Your Name
+Raja Sherina T
 
 ---
